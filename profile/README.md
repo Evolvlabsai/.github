@@ -11,7 +11,7 @@
 
 ---
 
-Care on one side. Circuits on the other. EvolvLabs is an independent software company in Sykesville, Maryland. We build an operations platform for daycares, a workplace for AI agents, and a planner designed for ADHD. Three very different tools, all built the same careful way.
+Care on one side. Circuits on the other. EvolvLabs is a Maryland-based independent software company. We build an operations platform for daycares, a workplace for AI agents, and a planner designed for ADHD. Three very different tools, all built the same careful way.
 
 Our specialty is AI and software architecture: multi-agent systems, cloud-native platforms, and the compliance plumbing that keeps regulated work honest.
 
@@ -25,7 +25,7 @@ Operations software for childcare centers and adult day programs. Enrollment, at
 
 The right software for your agents. Exolvra gives AI agents a project board instead of a chat box: agents break down projects, work in teams, and use real tools across dozens of integrations, while guardrails check their work before it reaches you. Self-hosted, so your data stays on your network. Waitlist open.
 
-### SteddyZen · [steddyzen.com](https://steddyzen.com)
+### SteddyZen · [steddyzen.com](https://steddyzen.com) · Coming soon
 
 A calm planner built for ADHD. It breaks work into next steps that are easy to start, keeps routines flexible, and shows progress without piling on pressure. In development, coming to desktop and mobile.
 
