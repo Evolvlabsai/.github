@@ -49,4 +49,11 @@ EvolvLabs applies that experience to AI. Agent systems deserve the same rigor as
 
 - General: [hello@evolvlabs.ai](mailto:hello@evolvlabs.ai)
 - Security: [security@evolvlabs.ai](mailto:security@evolvlabs.ai)
-- Web: [evolvlabs.ai](https://evolvlabs.ai)
+- Web: [evolvlabs.ai](https://evolvlabs.ai) · [LinkedIn](https://www.linkedin.com/company/evolvlabs-llc/)
+
+---
+
+<p align="center">
+  <a href="https://e2b.dev/startups"><img src="https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge" alt="Sponsored by E2B for Startups"></a>
+</p>
+<p align="center"><sub>Exolvra runs its AI-agent sandboxes on E2B.</sub></p>
